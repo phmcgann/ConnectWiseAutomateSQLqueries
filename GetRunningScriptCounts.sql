@@ -1,6 +1,6 @@
 /*
  Description    : Returns Running Script Counts for Entire Netmon system
- Source URL     : https://github.com/NtivaProdM/ConnectWiseAutomateSQLqueries
+ Source URL     : https://github.com/phmcgann/ConnectWiseAutomateSQLqueries
  Returns        :
  Tested Versions:
   LabTech 10.5
